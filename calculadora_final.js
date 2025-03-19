@@ -1,4 +1,3 @@
-//APLICACION HABILIDADES ADQUIRIDAS - MODULO 3
 //CONSTRUCCIÓN DE UNA CALCULADORA
 
 const prompt = require("prompt-sync")({ sigint: true });
